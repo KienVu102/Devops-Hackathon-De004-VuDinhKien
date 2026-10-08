@@ -1,4 +1,4 @@
-# DevOps Hackathon DE002 – Phạm Việt Quân
+# DevOps Hackathon DE002 – Vũ Đình Kiên
 
 ## Thông tin sinh viên
 
